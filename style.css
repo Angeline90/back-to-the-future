@@ -1,0 +1,51 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'alarm clock', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  table {
+    margin: 50px auto;
+    border-collapse: collapse;
+  }
+  
+  th {
+    font-size: 2em;
+    letter-spacing: 2px;
+    /* border: 2px solid #fff; */
+    padding: 10px;
+  }
+  
+  td {
+    font-size: 3em;
+    letter-spacing: 5px;
+    border: 4px solid grey;
+    padding: 20px;
+  }
+  
+  p {
+    font-size: 3em;
+    letter-spacing: 5px;
+    margin-top: 50px;
+  }
+  .destination th,
+  .present th {
+    color: white;
+    background-color: #970102;
+    border: 4px solid #970102;
+    border-bottom: none;
+    margin-bottom: 20px;
+  }
+  
+  .destination {
+    color: red;
+  }
+  .present {
+    color: greenyellow;
+    border-collapse: collapse;
+  }
+  
+  
+  
