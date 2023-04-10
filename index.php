@@ -53,7 +53,7 @@
     </table>
     <p>PRESENT TIME</p>
     <p>Il y a <?= $diff->format('%y ans, %m mois, %d jours, %h heures, %i minutes')?> qui separent ces deux dates.</p>
-    <p>Nom de Zeus ! Il y a <?= $minutes?> qui separent ces deux dates. Il faudra <?= $carburant?> litres de carburant pour effectuer ce voyage Doc !</p>
+    <p>Nom de Zeus ! Il y a <?= $minutes?> minutes qui separent ces deux dates. Il faudra <?= $carburant?> litres de carburant pour effectuer ce voyage Doc !</p>
 </body>
 
 </html>
